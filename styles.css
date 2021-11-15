@@ -4,7 +4,7 @@ html, body {
   text-align: center;
 }
 
-#open-modal, #close-modal {
+button {
   background-color: royalblue;
   color: white;
   padding: 15px;
@@ -19,7 +19,7 @@ html, body {
   padding: 20px;
   height: 200px;
   position: relative;
-  top: 30%;
+  top: 40%;
 }
 
 #overlay {
